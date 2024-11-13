@@ -1,0 +1,42 @@
+header{
+    background-color: aqua;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+nav a{
+    color: blue;
+    text-decoration: lightseagreen;
+    font-weight: bold;
+}
+
+nav a:hover{
+    color: blueviolet;
+}
+
+.contenedor{
+    width: 90%;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: crimson;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgb(08,0,255);
+}
+
+.contenedor h2{
+    color: darkgreen;
+}
+
+.contenedor p{
+    color: brown;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+footer{
+    background-color: gray;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+}
